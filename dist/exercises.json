@@ -1875,7 +1875,7 @@
     "id": "Bench_Jump"
   },
   {
-    "name": "Bench Press - Powerlifting",
+    "name": "Bench Press",
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
